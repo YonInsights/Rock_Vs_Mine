@@ -3,3 +3,8 @@ pandas
 scikit-learn
 matplotlib
 seaborn
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
